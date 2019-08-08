@@ -8087,6 +8087,11 @@ react-scripts@3.0.1:
   optionalDependencies:
     fsevents "2.0.6"
 
+react-use-fuse@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/react-use-fuse/-/react-use-fuse-0.5.2.tgz#0847aaf7d54efb3a67bf77fe3e2e7ece74a578e4"
+  integrity sha512-SIDSBYdmh87Rko0clLV5Q1egdpadDegbJxaVM1eu/bzO2s5ecUphgHxUY3hyugJe6xMSHnNm6Ilc4CmRw2hbIw==
+
 react@^16.8.6:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react/-/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
