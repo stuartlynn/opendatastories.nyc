@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^1.19.0",
+    "selenium": "^2.20.0",
+    "soda-js": "^0.2.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node --presets babel-preset-env"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.19.1"
+  }
+}
