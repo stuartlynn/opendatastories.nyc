@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^1.19.0",
     "selenium": "^2.20.0",
     "soda-js": "^0.2.3"
